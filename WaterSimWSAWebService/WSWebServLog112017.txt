@@ -1,0 +1,32 @@
+[LOG],11/3/2017,11:28 AM,[CREATED],[::1]
+
+[LOG],11/3/2017,11:28 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/3/17 11:28  Model:WSW.2.0.2
+
+[LOG],11/3/2017,11:30 AM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["SUL_P"],"Providers":["AZC"]}
+
+[LOG],11/3/2017,11:30 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],11/7/2017,2:04 PM,[CREATED],[::1]
+
+[LOG],11/7/2017,2:04 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/7/17 14:04  Model:WSW.2.0.2
+
+[LOG],11/7/2017,2:07 PM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["SUR_UD"],"Providers":["AZC"]}
+
+[LOG],11/7/2017,2:07 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(Invalid Field Request FLD:SUR_UD - Object reference not set to an instance of an object.)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],11/7/2017,2:08 PM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["SUR_U_P"],"Providers":["AZC"]}
+
+[LOG],11/7/2017,2:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],11/8/2017,10:14 AM,[CREATED],[::1]
+
+[LOG],11/8/2017,10:14 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/8/17 10:14  Model:WSW.2.0.2
+
+[LOG],11/8/2017,10:15 AM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["SUR_P"],"Providers":["COU"]}
+
+[LOG],11/8/2017,10:15 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:( Invalid Provider Code : COU)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],11/8/2017,10:16 AM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["SUR_P"],"Providers":["COB"]}
+
+[LOG],11/8/2017,10:16 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
